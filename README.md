@@ -1,4 +1,4 @@
-##MoneyVault-Console-App
+**MoneyVault-Console-App**
 
 **Project Overview**: 
 This project is a console-based banking application that follows the MVC
